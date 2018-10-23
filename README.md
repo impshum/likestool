@@ -11,7 +11,6 @@ A simple python script to gain points on likestool.com
 ### Instructions
 
 * pip install BeautifulSoup, halo, splinter
-* python run.py
 * Run it
 
         python3 run.py
