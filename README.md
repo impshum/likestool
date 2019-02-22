@@ -1,6 +1,6 @@
 ### What is this?
 
-A simple python script to gain points on likestool.com
+A simple python script to gain points on [likestool.com](https://likestool.com/ref/8Yr0BAc)
 
 ![Likestool](https://github.com/impshum/likestool/blob/master/screenshot.png?raw=true)
 
